@@ -1,0 +1,38 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+#time{
+	height:100px;
+	width:100px;
+}
+
+.button{
+	height:50px;
+	width:110px;
+	color: black;
+	text-align:center;
+	background-color: green;
+	vertical-align: middle;
+	margin:auto;
+}
+
+.button a{
+	display: block;
+}
+
+.text{
+	text-align:center;
+}
+
+.text1{
+	text-align:center;
+	color: red;
+}
+
+A {
+		text-decoration: none;
+		color: black;
+		vertical-align: middle;
+		margin:auto;
+   }
